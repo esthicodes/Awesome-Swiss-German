@@ -25,9 +25,116 @@ di - << Frau
 ```
 >>> Der -- Die -- Das 
 
+mehr und mehr:
+Wanna go out drinking? 
+Wämmer eis go ziie?
+Wollen wir einen trinken?
+
+I'm cold - Ich ha chalt
+Mir ist kalt
+I have a bit of a headache
+
+Ich han es bitzeli Chopfweh
+Ich habe ein bisschen Kopfweh
+
+Now the fun is over!
+Jetz isch färtig luschtig
 
 Region of Switzerland
 North: Thurgau
 South: 
 West
 East
+
+A little Es bitzeli
+Ein bisschen
+
+Approximately Öppe Etwa
+
+Someone Öpper Jemand
+
+Something
+Öppis
+Etwas
+
+Not
+Nööd
+Nicht
+
+Nothing
+Nüüt
+Nichts
+
+Here
+Da
+Hier
+
+There
+Det
+Dort
+
+...right?
+...gäll?
+...nicht wahr?
+
+Otherwise 
+Susch
+Sonst
+
+Disgusting
+Gruusig
+Grausig
+
+Very (not a very nice expression)(Uu) huere
+
+Some times
+Mängisch
+Manchmal
+
+Well, yes
+Mol
+DochYeah, 
+
+right
+Äbä
+Eben 
+
+Work
+Schaffe
+Arbeiten
+
+Work hard
+Chrampfe 
+Hart arbeiten
+
+Sunbathe
+Sünnele
+Sich sonnen
+
+Go shopping
+Poschte
+Einkaufen
+
+Look
+Luege
+Sehen
+
+Call
+Aalüte
+Anrufen
+
+I call you
+Ich lüte dir aa
+Ich rufe dich an
+
+You know
+Weisch
+Weisst du
+
+Are you coming?
+Chuntsch?
+Kommst du?
+
+Do we have...?
+Hämmer...?
+Haben wir...?
