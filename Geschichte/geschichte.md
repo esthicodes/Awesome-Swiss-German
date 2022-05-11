@@ -1,0 +1,1 @@
+Vorläufer der modernen Schweiz waren die seit dem Ende des 13. Jahrhunderts als lockerer Bund organisierte Alte Eidgenossenschaft, die von 1798 bis 1803 bestehende zentralistisch aufgebaute Helvetische Republik sowie die 1803 gegründete und 1815 neu organisierte «Schweizerische Eidgenossenschaft».
