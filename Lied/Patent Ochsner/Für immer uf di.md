@@ -29,3 +29,5 @@ blybsch i mym härz - sogar no denn - we's afat weh tue
 uf mueters seel wo hüt furt isch vo dr ärde
 uf au die schöne ching, wo hüt z nacht gebore wärde
 uf au die zyt wo isch vergange, uf au die zyt wo mir no blybt"
+
+Contributor: May
