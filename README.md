@@ -132,9 +132,13 @@ Weisch
 Weisst du
 
 Are you coming?
-Chuntsch?
+Chunnsch?
 Kommst du?
 
 Do we have...?
 Hämmer...?
 Haben wir...?
+
+Let's go
+Gömmer
+Gehen wir
