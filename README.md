@@ -142,3 +142,6 @@ Haben wir...?
 Let's go
 Gömmer
 Gehen wir
+
+
+Swissdial [link](https://projects.mtc.ethz.ch/projects/swiss-voice/swissdial)
