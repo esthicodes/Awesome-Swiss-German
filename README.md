@@ -104,7 +104,7 @@ Schaffe
 Arbeiten
 
 Work hard
-Chrampfe 
+Chrampfe == bügle
 Hart arbeiten
 
 Sunbathe
