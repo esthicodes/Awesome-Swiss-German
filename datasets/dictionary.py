@@ -1,6 +1,3 @@
-# //comment 
-
-
 # Swiss German Dictionary (alphabetically ordered)
 
 
