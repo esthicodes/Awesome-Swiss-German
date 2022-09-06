@@ -144,9 +144,9 @@ Gömmer
 Gehen wir
 
 
-Swissdial [link](https://projects.mtc.ethz.ch/projects/swiss-voice/swissdial)
+Swissdialect [link](https://projects.mtc.ethz.ch/projects/swiss-voice/swissdial)
 
-# Structural diveristy index
+# Structural Computational Language Model
 This repository contains code for fast numerical computation of the structural diversity index
 
 ## Contents
