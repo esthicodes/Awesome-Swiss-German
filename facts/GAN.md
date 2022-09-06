@@ -1,5 +1,5 @@
-all codes about classical GANs were implemented with simple network structure and tested by MNIST dataset.   
- learn how others implement the GANs, and finally, enjoy the magic of GANs :-D   
+Speical Contribution from Feng Yao who wrote the codes about classical GANs were implemented with simple network structure and tested by MNIST dataset.   
+ learn how others implement the GANs, and finally, enjoy the magic of GANs. 
 
 
 ***************
