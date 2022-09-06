@@ -1,4 +1,4 @@
-### SwissGerman_Dictionary
+# Swiss German Dictionary
 
 A tool that allows you to manually load up Swiss German in Chinese, Korean, Norwegian, Swedish, Danish, Finnish, Dutch, Swiss French, Swiss Italian, Austrian German, Flemish, Hebrew. 
 
@@ -290,7 +290,7 @@ Danke Vilmals! (●'◡'●)
 
 ## Acknowledgements
 
-- Thanks [Andrea Musso](https://faces.dmi.unibas.ch/bfm/), [Tim](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm), and [Feng Yao](https://github.com/YadiraF/PRNet/blob/master/README.md) for sharing NLP Data.
+- Thanks [Andrea Musso](https://faces.dmi.unibas.ch/bfm/) for Introducing (https://coss.ethz.ch/people/phd/amusso.html), [Tim](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm), and [Feng Yao](https://github.com/YadiraF/PRNet/blob/master/README.md) for sharing NLP Data, Vilem for the [Poetry Translation](https://github.com/zouharvi/mean-poet)
 - Thanks Siri for sharing the work  [Siri](https://github.com/Xinglab/siri), which helps me a lot in studying Siri response.
 - Thanks for giving the lecture on [Computational Semantics for Natural Language Processing](http://www.mrinmaya.io/teaching_csnlp22) and the [presentation](https://app.gather.town/events/oyd9OJWmuXtEyeK3F61j)
 - Thanks the authors of  [Elliott Ash, (ashe@ethz.ch)](https://github.com/anilbas/3DMMasSTN), [Siri](https://github.com/kopiro/siriwave), [3dmm_cnn](https://github.com/anhttran/3dmm_cnn), [vrn](https://github.com/AaronJackson/vrn), [Afra Amini, (afra.amini@inf.ethz.ch)](https://github.com/elliottash/nlp_lss_2022), [face-alignment](https://github.com/1adrianb/face-alignment) for making their excellent works publicly available. 
