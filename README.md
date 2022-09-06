@@ -19,6 +19,7 @@ English (bag) a - >  ä
 
 c = Chum gli hei! (come home soon!)
 b = bald == gli
+d = Fläsche == bottle 
 
 de - > male 
 di - << Frau 
