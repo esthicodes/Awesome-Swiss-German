@@ -1,5 +1,5 @@
 # SwissGerman_Dictionary
-A tool that allows you to manually load up Swiss German in Chinese or Korean. 
+A tool that allows you to manually load up Swiss German in Chinese, Korean, Norwegian, Swedish, Danish, Finnish, Dutch, Swiss French, Swiss Italian, Austrian German, Flemish, Hebrew. 
 
 _For Example_
 
