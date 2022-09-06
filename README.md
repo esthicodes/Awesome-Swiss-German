@@ -1,9 +1,11 @@
 # Swiss German Dictionary
 
-A tool that allows you to manually load up Swiss German in Italian, Chinese, Korean, Norwegian, Swedish, Danish, Finnish, Dutch, Swiss French, Swiss Italian, Austrian German, Flemish, Hebrew. 
+An audio tool(Siri Annotation Analyst to help us improve the way people and machines interact.) that allows you to manually load up [Swiss German](https://www.youtube.com/shorts/lVCv6C8dTSI) in Italian, Chinese, Korean, Norwegian, Swedish, Danish, Finnish, Dutch, Swiss French, Swiss Italian, Austrian German, Flemish, Hebrew, [Irish](https://www.youtube.com/watch?v=K7tKje_5M3M). 
 
 
-Swiss_Dialect [link](https://projects.mtc.ethz.ch/projects/swiss-voice/swissdial)
+Swiss_Dialect [MTC Project Hub](https://projects.mtc.ethz.ch/projects/swiss-voice/swissdial)
+
+[Swiss National Day](https://www.youtube.com/watch?v=GHepwehZmD4&t=15s)
 
 # Structural Computational Language Model
 This repository contains code for fast numerical computation of the structural diversity index.
