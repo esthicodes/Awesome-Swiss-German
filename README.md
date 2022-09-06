@@ -1,12 +1,12 @@
 # Swiss German Dictionary
 
-A tool that allows you to manually load up Swiss German in Chinese, Korean, Norwegian, Swedish, Danish, Finnish, Dutch, Swiss French, Swiss Italian, Austrian German, Flemish, Hebrew. 
+A tool that allows you to manually load up Swiss German in Italian, Chinese, Korean, Norwegian, Swedish, Danish, Finnish, Dutch, Swiss French, Swiss Italian, Austrian German, Flemish, Hebrew. 
 
 
 Swiss_Dialect [link](https://projects.mtc.ethz.ch/projects/swiss-voice/swissdial)
 
 # Structural Computational Language Model
-This repository contains code for fast numerical computation of the structural diversity index
+This repository contains code for fast numerical computation of the structural diversity index.
 
 ## Contents
 The repository contains four python scripts: **MeetingTimesUI**, **RandomWalkSimulatorCUDA**, **RandomWalkSimulator** and **MeetingTimeEstimator**
