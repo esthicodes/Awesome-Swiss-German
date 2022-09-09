@@ -1,19 +1,26 @@
-# Swiss German Dictionary
+# [Swiss German Dictionary](https://www.apple.com/chde/)
+![](https://i.imgur.com/dLI4HYM.jpg)
 
 An audio tool(Siri Annotation Analyst to help us improve the way people and machines interact.) that allows you to manually load up [Swiss German](https://www.youtube.com/shorts/lVCv6C8dTSI) in Italian, Chinese, Korean, Norwegian, Swedish, Danish, Finnish, Dutch, Swiss French, Swiss Italian, Austrian German, Flemish, Hebrew, [Irish](https://www.youtube.com/watch?v=K7tKje_5M3M). 
 
+## Interacting with your Devices
 
-Swiss_Dialect [MTC Project Hub](https://projects.mtc.ethz.ch/projects/swiss-voice/swissdial)
+Once your device has been added to SwissGermanBot, you should be able to tell Siri to control your devices. However, realize that Siri is a cloud service, and iOS may need some time to synchronize your device information with iCloud.
 
-[Swiss National Day](https://www.youtube.com/watch?v=GHepwehZmD4&t=15s)
+One final thing to remember is that Siri will almost always prefer its default phrase handling over SwissGermanBot devices. For instance, if you name your Sonos device "Radio" and try saying "Siri, turn on the Radio" then Siri will probably start playing an iTunes Radio station on your phone. Even if you name it "Esthi" and say "Siri, turn on the Esthi", Siri will probably just launch the Esthi app instead. This is why, for instance, the suggested `name` for the Esthi accessory is "Speakers".
+
+
+Swiss 8 Different Dialects Project on [MTC Project Hub](https://projects.mtc.ethz.ch/projects/swiss-voice/swissdial)
+
+[Have a look at Swiss National Day](https://www.youtube.com/watch?v=GHepwehZmD4&t=15s)
 
 # Structural Computational Language Model
 This repository contains code for fast numerical computation of the structural diversity index.
 
 ## Contents
-The repository contains four python scripts: **MeetingTimesUI**, **RandomWalkSimulatorCUDA**, **RandomWalkSimulator** and **MeetingTimeEstimator**
+The repository contains four python scripts: **MeetingTimesUI**, **ANTLR (ANother Tool for Language Recognition)**, **RandomWalkSimulator** and **MeetingTimeEstimator**
 Here is a brief description:
-   * MeetingTimeUI provides a user interface for the scripts
+   * ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees.
    * RandomWalkSimulator computes the meeting time of a random walk on a graph. 
    * RandomWalkSimulatorCUDA computes the meeting time of random walks on a graph using CUDA and GPUs (much faster for large graphs). It requires Cudatoolkit to run.
    * MeetingTimeEstimator is a class that makes educated guesses of the meeting times of two walks which have not met, based on the meeting times of walks which have met. 
@@ -140,7 +147,38 @@ Get the 3D vertices and corresponding colours from a single image.  Save the res
 
 
 ## Getting Started
+OS X
+```
+$ cd /usr/local/lib
 
+$ sudo curl -O https://www.antlr.org/download/antlr-4.11.1-complete.jar
+
+$ export CLASSPATH=".:/usr/local/lib/antlr-4.11.1-complete.jar:$CLASSPATH"
+
+$ alias antlr4='java -jar /usr/local/lib/antlr-4.11.1-complete.jar'
+
+$ alias grun='java org.antlr.v4.gui.TestRig'
+````
+
+Linux 
+```LINUX
+$ cd /usr/local/lib
+$ wget https://www.antlr.org/download/antlr-4.11.1-complete.jar
+$ export CLASSPATH=".:/usr/local/lib/antlr-4.11.1-complete.jar:$CLASSPATH"
+$ alias antlr4='java -jar /usr/local/lib/antlr-4.11.1-complete.jar'
+$ alias grun='java org.antlr.v4.gui.TestRig'```
+````
+
+Windows: 
+```Download https://www.antlr.org/download/antlr-4.11.1-complete.jar.
+Add antlr4-complete.jar to CLASSPATH, either:
+Permanently: Using System Properties dialog > Environment variables > Create or append to CLASSPATH variable
+Temporarily, at command line:
+SET CLASSPATH=.;C:\Javalib\antlr4-complete.jar;%CLASSPATH%
+Create batch commands for ANTLR Tool, TestRig in dir in PATH
+ antlr4.bat: java org.antlr.v4.Tool %*
+ grun.bat:   java org.antlr.v4.gui.TestRig %*
+ ```
 ### Prerequisite
 
 * Python 2.7 (numpy, skimage, scipy)
@@ -392,7 +430,8 @@ Manchmal
 
 Well, yes
 Mol
-DochYeah, 
+Doch
+Yeah, 
 
 right
 Äbä
@@ -442,3 +481,13 @@ Let's go
 Gömmer
 Gehen wir
 
+Citation: 
+
+@inproceedings{aepli2018parsing,
+  title={{Parsing Approaches for Swiss German}},
+  author={No\"emi Aepli and Simon Clematide},
+  booktitle={{Proceedings of the 3rd Swiss Text Analytics Conference (SwissText), Winterthur, Switzerland}},
+  year={2018}
+}
+
+* The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
