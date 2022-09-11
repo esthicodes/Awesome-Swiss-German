@@ -1,5 +1,8 @@
 # [Swiss German Dictionary](https://www.apple.com/chde/)
 ![](https://i.imgur.com/dLI4HYM.jpg)
+
+[App Demo|(https://www.swiss-german-online.com/app.html)
+
 https://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format
 An audio tool(Siri Annotation Analyst to help us improve the way people and machines interact.) that allows you to manually load up [Swiss German](https://www.youtube.com/shorts/lVCv6C8dTSI) in Italian, Chinese, Korean, Norwegian, Swedish, Danish, Finnish, Dutch, Swiss French, Swiss Italian, Austrian German, Flemish, Hebrew, [Irish](https://www.youtube.com/watch?v=K7tKje_5M3M). 
 
@@ -481,7 +484,7 @@ Let's go
 Gömmer
 Gehen wir
 
-Citation: 
+# Citation: 
 
 @inproceedings{aepli2018parsing,
   title={{Parsing Approaches for Swiss German}},
