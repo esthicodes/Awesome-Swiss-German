@@ -382,7 +382,7 @@ Ich han es bitzeli Chopfweh
 Ich habe ein bisschen Kopfweh
 
 Now the fun is over!
-Jetz isch färtig luschtig
+Jetzt isch färtig luschtig
 
 Region of Switzerland
 North: Thurgau
