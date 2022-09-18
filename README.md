@@ -5,7 +5,30 @@
 
 [![Let's Go]({https://i.imgur.com/dLI4HYM.jpg})]{https://www.youtube.com/watch?v=GHepwehZmD4&t=16s} "Swiss German")
 
+Used Tools: 
 
+Cloud Run, BigQuery, Virtual Machines with GPUs and Machine Learning APIs
+
+You can find an overview [here](https://cloud.google.com/products)
+
+Design: 
+
+[Figma](https://www.figma.com/)
+
+Collaboration: 
+[FigJam](https://www.figma.com/figjam/)
+
+[wonder.me](http://wonder.me/)
+
+[conceptboard.com](http://conceptboard.com) 
+
+[jamboard.google.com](http://jamboard.google.com/) 
+
+[menti.com](http://menti.com/) 
+
+[retrotool.io](http://retrotool.io/) 
+
+[kahoot.it](http://kahoot.it/)
 
 https://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format
 An audio tool(Siri Annotation Analyst to help us improve the way people and machines interact.) that allows you to manually load up [Swiss German](https://www.youtube.com/shorts/lVCv6C8dTSI) in Italian, Chinese, Korean, Norwegian, Swedish, Danish, Finnish, Dutch, Swiss French, Swiss Italian, Austrian German, Flemish, Hebrew, [Irish](https://www.youtube.com/watch?v=K7tKje_5M3M). 
