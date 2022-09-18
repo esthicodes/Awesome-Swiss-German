@@ -7,7 +7,7 @@
 
 Used Tools: 
 
-Cloud Run, BigQuery, Virtual Machines with GPUs and Machine Learning APIs
+Cloud Run, BigQuery, Virtual Machines with GPUs and Machine Learning APIs, Google Cloud [Speech-to-Text](https://cloud.google.com/speech-to-text)
 
 You can find an overview [here](https://cloud.google.com/products)
 
@@ -62,6 +62,7 @@ If you are interested in a **quick start tutorial** see the section **Tutorial**
 
 The scripts are provided in the form of a python package called [structural_diversity_index](https://pypi.org/project/structural-diversity-index/).
 To install the package and its dependencies type into the terminal
+
 ```rb
 pip install structural_diversity_index==0.0.3
 ```
