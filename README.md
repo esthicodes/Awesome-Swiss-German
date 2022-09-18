@@ -1,7 +1,8 @@
 # [Swiss German Dictionary](https://www.apple.com/chde/)
 ![](https://i.imgur.com/dLI4HYM.jpg)
 
-[App Demo](https://www.swiss-german-online.com/app.html)
+[App Demo](https://www.swiss-german-online.com/app.html) VERSION WHICH SHOWS SWISS-GERMAN PHRASES EASILY IN SHORT VIDEOS. 
+Feel free to drop a message on [Personal Blog](), [Linkedin]() or [Instagram](). 
 
 
 Used Tools: 
@@ -34,20 +35,21 @@ An audio tool(Siri Annotation Analyst to help us improve the way people and mach
 
 ## Interacting with your Devices
 
-Once your device has been added to SwissGermanBot, you should be able to tell Siri to control your devices. However, realize that Siri is a cloud service, and iOS may need some time to synchronize your device information with iCloud.
-
+Once your device has been added to SwissGermanBot, you should be able to tell Siri to control your devices.
 One final thing to remember is that Siri will almost always prefer its default phrase handling over SwissGermanBot devices. For instance, if you name your Sonos device "Radio" and try saying "Siri, turn on the Radio" then Siri will probably start playing an iTunes Radio station on your phone. Even if you name it "Esthi" and say "Siri, turn on Esthi", Siri will probably just launch the Esthi app instead. This is why, for instance, the suggested `name` for the Esthi accessory is "Speakers".
 
 
-Swiss 8 Different Dialects Project on [MTC Project Hub](https://projects.mtc.ethz.ch/projects/swiss-voice/swissdial)
+We have collected 8 major dialects from [MTC Project Hub](https://projects.mtc.ethz.ch/projects/swiss-voice/swissdial).
 
-[Have a look at Swiss National Day](https://www.youtube.com/watch?v=GHepwehZmD4&t=15s)
+# Culture 
 
-# Structural Computational Language Model
-This repository contains code for fast numerical computation of the structural diversity index.
+Have a look at [Swiss National Day](https://www.youtube.com/watch?v=GHepwehZmD4&t=15s)
 
 ## Contents
-The repository contains four python scripts: **MeetingTimesUI**, **ANTLR (ANother Tool for Language Recognition)**, **RandomWalkSimulator** and **MeetingTimeEstimator**
+The repository contains four python scripts:
+
+**ANTLR (ANother Tool for Language Recognition)**
+
 Here is a brief description:
    * ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees.
    * RandomWalkSimulator computes the meeting time of a random walk on a graph. 
@@ -67,16 +69,13 @@ pip install structural_diversity_index==0.0.3
 ```
 This will install the 0.0.3 version (latest) of the package in your python packages directory.
 
-**WARNING**: Installing the package via pip will allow **NOT** you to use the scripts that run computations on GPUs.
-See below for details of how to run the scripts computing on GPUs.
-
 ### Installation for GPUs
 If you are not interested in running computations on GPUs you can ignore this section.
 
 Installing the structural_diversity_index package via pip does not enable you to run computations on GPUs.
-The reason is that the Cudatoolkit cannot be installed by pip (because it is not a python package).
+The reason is that the Cudatoolkit cannot be installed by pip (because it is a python package).
 
-To circumvent this issue one can use a package installer such as [conda](https://www.anaconda.com/products/individual).
+To circumvent this issue one can use a package installer such as [Django](https://docs.djangoproject.com/en/4.1/intro/install/).
 Once you have installed conda on your computer, download the file **environment.yml** from the GitHub.
 In the terminal, go to the directory containing the environment.yml file you downloaded and type:
 
@@ -84,39 +83,140 @@ In the terminal, go to the directory containing the environment.yml file you dow
 conda env create -f environment.yml
 ```
 
-This will create a conda environment called **sd_index** and install all the dependencies necessary to computations on GPUs.
-Now you can set on_cuda=True (see Examples.ipynb in [GitHub](https://github.com/ethz-coss/Structural-diversity-index)) and computations will run on GPUs. 
+This will create a environment called **sd_index** and install all the dependencies necessary to Automatic Speech Recognition (ASR) - DeepSpeech Swiss German. Now you can (see Examples.ipynb in [GitHub](https://github.com/AASHISHAG/deepspeech-swiss-german)) and computations will run on GPUs. 
 
 ## Tutorial
 
-The Jupyter notebook **Example.ipynb** contains a detailed tutorial explaining how to use the package structural_diversity_index.
+The Jupyter notebook **Example.ipynb** contains a detailed tutorial explaining how to use the package.
 
-## Extending the code
+## Pre-processing the code
 
-If you are interested in extending, modifying or simply playing around with the code, I have created a detailed documentation with ReadTheDocs which is available [here](https://rse-distance.readthedocs.io). 
+If you are interested in extending, modifying or simply playing around with the code, I have created a detailed documentation with Pre-processing which is available [here](https://github.com/AASHISHAG/deepspeech-swiss-german/tree/master/pre-processing). 
 
 
-# Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network
+# https://github.com/AASHISHAG/deepspeech-swiss-german/tree/master/pre-processing
 
 <p align="center"> 
 <img src="Docs/images/prnet.gif">
 </p>
 
+## Create a custom AI model using AutoML Natural Language
+
+### Introduction
+
+This walkthrough shows you how to use AutoML Natural Language to create a custom machine learning model. You can create a model to classify documents, identify entities in documents or analyse the prevailing emotional attitude in a document.
+
+### Learn how to:
+
+Set up a project and workspace.
+Learn about different model objectives.
+Import data for a data set.
+Train and use your custom model.
+Clean up the resources that you created for this walkthrough.
+
+### How to Start
+
+By using the Cloud ML API to train custom machine learning models with minimum effort, and the Cloud Storage API to store and access your data.
+
+## Step 2: Model objectives
+
+AutoML Natural Language can train custom models for four distinct tasks, known as model objectives:
+
+Single label classification classifies documents by assigning a label to them.
+
+Multi-label classification allows a document to be assigned multiple labels.
+
+Entity extraction identifies entities in documents.
+
+Sentiment analysis analyses attitudes within documents.
+
+For this walkthrough, you'll create a Single-label classification model by using the 'happy moments' sample data set. The resulting model classifies happy moments into categories reflecting the causes of happiness.
+
+## Step 3: Import data for a data set
+
+Click the Navigation menu icon, then click Natural Language.
+
+You can see where it is by clicking the following button:
+
+ Natural Language
+
+Within the AutoML text and document classification section, click Get started.
+
+Click the New data set button.
+
+Enter a data set name.
+
+Leave the Location set to Global.
+
+Select the Single-label classification as your model objective.
+
+Click Create data set.
 
 
-This is an official python implementation of PRN. 
+## Step 4: Import data to create a data set
+Verify that you are on the Import tab of your new data set details page.
 
-PRN is a method to jointly regress dense alignment and 3D face shape in an end-to-end manner. More examples on Multi-PIE and 300VW can be seen in [YouTube](https://youtu.be/tXTgLSyIha8) .
+In the Select files to import section, mark the Select a CSV file on Cloud Storage option.
 
-The main features are:
+In the Select a CSV file on Cloud Storage section, enter the following [PATH] to the public data set into the text field.
 
-* **End-to-End**  our method can directly regress the 3D facial structure and dense alignment from a single image bypassing 3DMM fitting.
+cloud-ml-data/NL-classification/happiness.csv
+Click Import.
 
-* **Multi-task**  By regressing position map, the 3D geometry along with semantic meaning can be obtained. Thus, we can effortlessly complete the tasks of dense alignment, monocular 3D face reconstruction, pose estimation, etc.
+The import can take approximately 10 minutes per 1,000 documents. Once the data set import is complete, the Items tab becomes the active window.
 
-* **Faster than real-time**  The method can run at over 100fps(with GTX 1080) to regress a position map.
+During training, a progress bar indicates the progress of the training.
 
-* **Robust** Tested on facial images in unconstrained conditions.  Our method is robust to poses, illuminations and occlusions. 
+## Step 5: Train your model
+
+The Items tab shows a list of available items to include in your training model, a summary of statistics and an example set of labels for the data set selected.
+
+When you have finished reviewing the data set, switch to the Train tab.
+
+Click Start training.
+
+In the new panel, enter a model name for the new model.
+
+Mark the Deploy model after training finishes tick box.
+
+Click Start training.
+
+Training a model can take several hours to complete. After the model is successfully trained, you will receive a message at the email address associated with your project. The progress panel changes to display the results in the panel.
+
+After training, the bottom of the Train tab shows high-level metrics for the model, such as precision and recall percentages. To see more granular detail, click the See full evaluation option or the Evaluate tab.
+
+## Step 6: Use the custom model
+After your model has been successfully trained, you can use it to analyse other documents. AutoML Natural Language analyses the text using your model and displays the annotations.
+
+Click the Test & use tab.
+
+Click inside the Input text below box and add some sample text.
+
+Click Predict to review the results of the analysis.
+
+The prediction results are displayed with their predicted labels.
+
+Explore the resulting annotated code shown in the Use the custom model section.
+
+🎉 Success
+You've successfully created and trained a sample data set using public data using the AutoML Natural Language API!
+
+## Step 7: Next steps
+Delete the project
+If you've created a project specifically for this tutorial, you can delete it using the Projects page in the Cloud Console to avoid incurring charges to your account for resources used in this tutorial. This also deletes all underlying resources.
+
+Delete data set
+If you'd rather delete just the data sets that you created during this tutorial:
+
+In the Natural Language menu, click Data sets .
+
+On the row containing your data set, click More actions > Delete .
+
+Click Delete to finalise the data set removal.
+
+
+Vertex AI brings AutoML and AI Platform together into a unified API, client library, and user interface. AutoML lets you train models on image, tabular, text, and video datasets without writing code, while training in AI Platform lets you run custom training code. With Vertex AI, both AutoML training and custom training are available options. Whichever option you choose for training, you can save models, deploy models, and request predictions with Vertex AI.  More examples on Google Cloud and NLU can be seen in [YouTube](https://www.youtube.com/watch?v=2w7nYI9MaYM) .
+
 
 ### Usage
 
@@ -127,7 +227,7 @@ git clone https://github.com/Estheryu991/SwissGerman_Dictionary
 cd SwissGerman_Dictionary
 ```
 
-2. Download the PRN trained model at [BaiduDrive](https://pan.baidu.com/s/10vuV7m00OHLcsihaC-Adsw) or [GoogleDrive](https://drive.google.com/file/d/1UoE-XuW1SDLUjZmJPkIZ1MLxvQFgmTFH/view?usp=sharing), and put it into `Data/net-data`
+2. Download the Pre trained model at [BaiduDrive](https://pan.baidu.com/s/10vuV7m00OHLcsihaC-Adsw) or [GoogleDrive](https://drive.google.com/file/d/1UoE-XuW1SDLUjZmJPkIZ1MLxvQFgmTFH/view?usp=sharing), and put it into `Data/net-data`
 
 3. Run the test code.(test AFLW2000 images)
 
@@ -145,36 +245,6 @@ cd SwissGerman_Dictionary
 
    run `python demo_texture.py --help` for more details.
 
-
-
-## Training
-
-The core idea of the paper is:
-
-Using position map to represent face geometry&alignment information, then learning this with an Encoder-Decoder Network.
- 
-
-## FQA
-
-1. How to **speed up**?
-
-   a. network inference part
-
-   you can train a smaller network or use a smaller position map as input.
-
-   b. render part
-
-   you can refer to  [c++ version](https://github.com/YadiraF/face3d/blob/master/face3d/mesh/render.py). 
-
-   c. other parts like detecting face, writing obj
-
-   the best way is to rewrite them in c++.
-
-## License
-
-Code: under MIT license.
-
-Trained model file: please see [issue 28](https://github.com/YadiraF/PRNet/issues/28), thank [Kyle McDonald](https://github.com/kylemcdonald) for his answer.
 
 
 
