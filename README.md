@@ -683,7 +683,7 @@ $ sudo bclm unpersist
 
 - Thanks Kolja for sharing his work [Kolja](https://github.com/kolja-esders), which helped us a lot in studying Household Electric Power Consumption.
 
-- Thanks the organizers of [HackZürich](https://hackzurich.com/), [ReChart](https://github.com/ralpguler/DenseReg), [Alex Erfurt](https://github.com/alexerfurt) for providing [Google Cloud Developer's Cheat Sheet](https://github.com/priyankavergadia/google-cloud-4-words), [vrn](https://github.com/AaronJackson/vrn), [Hexagon](https://github.com/hexagon-geo-surv/hackzurich-2022), [face-alignment](https://github.com/1adrianb/face-alignment) for making their excellent works publicly available. 
+- Thanks the organizers of [HackZürich](https://hackzurich.com/), [ReChart](https://github.com/ralpguler/DenseReg), [Alex Erfurt](https://github.com/alexerfurt) for providing [Google Cloud Developer's Cheat Sheet](https://github.com/priyankavergadia/google-cloud-4-words), [vrn](https://github.com/AaronJackson/vrn), [Hexagon](https://github.com/hexagon-geo-surv/hackzurich-2022), [Schindler](https://developer.schindler.com/) for making their excellent works publicly available. 
 
 
 
