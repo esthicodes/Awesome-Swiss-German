@@ -36,7 +36,7 @@ An audio tool(Siri Annotation Analyst to help us improve the way people and mach
 
 Once your device has been added to SwissGermanBot, you should be able to tell Siri to control your devices. However, realize that Siri is a cloud service, and iOS may need some time to synchronize your device information with iCloud.
 
-One final thing to remember is that Siri will almost always prefer its default phrase handling over SwissGermanBot devices. For instance, if you name your Sonos device "Radio" and try saying "Siri, turn on the Radio" then Siri will probably start playing an iTunes Radio station on your phone. Even if you name it "Esthi" and say "Siri, turn on the Esthi", Siri will probably just launch the Esthi app instead. This is why, for instance, the suggested `name` for the Esthi accessory is "Speakers".
+One final thing to remember is that Siri will almost always prefer its default phrase handling over SwissGermanBot devices. For instance, if you name your Sonos device "Radio" and try saying "Siri, turn on the Radio" then Siri will probably start playing an iTunes Radio station on your phone. Even if you name it "Esthi" and say "Siri, turn on Esthi", Siri will probably just launch the Esthi app instead. This is why, for instance, the suggested `name` for the Esthi accessory is "Speakers".
 
 
 Swiss 8 Different Dialects Project on [MTC Project Hub](https://projects.mtc.ethz.ch/projects/swiss-voice/swissdial)
@@ -117,111 +117,6 @@ The main features are:
 * **Faster than real-time**  The method can run at over 100fps(with GTX 1080) to regress a position map.
 
 * **Robust** Tested on facial images in unconstrained conditions.  Our method is robust to poses, illuminations and occlusions. 
-
-  
-
-## Applications
-
-### Basics(Evaluated in paper)
-
-* #### Face Alignment
-
-Dense alignment of both visible and non-visible points(including 68 key points). 
-
-And the **visibility** of  points(1 for visible and 0 for non-visible).
-
-![alignment](Docs/images/alignment.jpg)
-
-* #### 3D Face Reconstruction
-
-Get the 3D vertices and corresponding colours from a single image.  Save the result as mesh data(.obj), which can be opened with [Meshlab](http://www.meshlab.net/) or Microsoft [3D Builder](https://developer.microsoft.com/en-us/windows/hardware/3d-print/3d-builder-resources). Notice that, the texture of non-visible area is distorted due to self-occlusion.
-
-**New**: 
-
-1. you can choose to output mesh with its original pose(default) or with front view(which means all output meshes are aligned)
-2. obj file can now also written with texture map(with specified texture size), and you can set non-visible texture to 0. 
-
-
-
-![alignment](Docs/images/reconstruct.jpg)
-
-
-
-### More(To be added)
-
-* #### 3D Pose Estimation
-
-  Rather than only use 68 key points to calculate the camera matrix(easily effected by expression and poses), we use all vertices(more than 40K) to calculate a more accurate pose.
-
-  #### ![pose](Docs/images/pose.jpg)
-
-* #### Depth image
-
-  ![pose](Docs/images/depth.jpg)
-
-* #### Texture Editing
-
-  * Data Augmentation/Selfie Editing
-
-    modify special parts of input face, eyes for example:
-
-    ![pose](Docs/images/eye.jpg)
-
-  * Face Swapping
-
-    replace the texture with another, then warp it to original pose and use Poisson editing to blend images.
-
-    ![pose](Docs/images/swapping.jpg)
-
-    
-
-
-## Getting Started
-OS X
-```
-$ cd /usr/local/lib
-
-$ sudo curl -O https://www.antlr.org/download/antlr-4.11.1-complete.jar
-
-$ export CLASSPATH=".:/usr/local/lib/antlr-4.11.1-complete.jar:$CLASSPATH"
-
-$ alias antlr4='java -jar /usr/local/lib/antlr-4.11.1-complete.jar'
-
-$ alias grun='java org.antlr.v4.gui.TestRig'
-````
-
-Linux 
-```LINUX
-$ cd /usr/local/lib
-$ wget https://www.antlr.org/download/antlr-4.11.1-complete.jar
-$ export CLASSPATH=".:/usr/local/lib/antlr-4.11.1-complete.jar:$CLASSPATH"
-$ alias antlr4='java -jar /usr/local/lib/antlr-4.11.1-complete.jar'
-$ alias grun='java org.antlr.v4.gui.TestRig'```
-````
-
-Windows: 
-```Download https://www.antlr.org/download/antlr-4.11.1-complete.jar.
-Add antlr4-complete.jar to CLASSPATH, either:
-Permanently: Using System Properties dialog > Environment variables > Create or append to CLASSPATH variable
-Temporarily, at command line:
-SET CLASSPATH=.;C:\Javalib\antlr4-complete.jar;%CLASSPATH%
-Create batch commands for ANTLR Tool, TestRig in dir in PATH
- antlr4.bat: java org.antlr.v4.Tool %*
- grun.bat:   java org.antlr.v4.gui.TestRig %*
- ```
-### Prerequisite
-
-* Python 2.7 (numpy, skimage, scipy)
-
-* TensorFlow >= 1.4
-
-  Optional:
-
-* dlib (for detecting face.  You do not have to install if you can provide bounding box information. )
-
-* opencv2 (for showing results)
-
-GPU is highly recommended. The run time is ~0.01s with GPU(GeForce GTX 1080) and ~0.2s with CPU(Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz).
 
 ### Usage
 
