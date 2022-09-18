@@ -507,6 +507,12 @@ Do we have...?
 Hämmer...?
 Haben wir...?
 
+<p align="center"> 
+<img src="Docs/images/ihanfrag.jpeg">
+</p>
+
+
+
 Let's go
 Gömmer
 Gehen wir
