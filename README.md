@@ -3,7 +3,6 @@
 
 [App Demo](https://www.swiss-german-online.com/app.html)
 
-[![Let's Go]({https://i.imgur.com/dLI4HYM.jpg})]{https://www.youtube.com/watch?v=GHepwehZmD4&t=16s} "Swiss German")
 
 Used Tools: 
 
