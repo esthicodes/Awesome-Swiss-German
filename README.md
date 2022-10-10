@@ -2,8 +2,9 @@
 ![](https://i.imgur.com/dLI4HYM.jpg)
 
 [App Demo](https://www.swiss-german-online.com/app.html) VERSION WHICH SHOWS SWISS-GERMAN PHRASES EASILY IN SHORT VIDEOS. 
-Feel free to drop a message on [Personal Blog](), [Linkedin]() or [Instagram](). 
+Feel free to drop a message on [Personal Blog](www.togom11.com), [Linkedin](https://ch.linkedin.com/in/esthiyu?trk=public_profile_locale-url) or [Instagram](https://www.instagram.com/esthicodes/?hl=en). 
 
+Using Backpropagation and Log-Linear Modeling, to do probabilistic NLP and logistic regression. 
 
 Used Tools: 
 
