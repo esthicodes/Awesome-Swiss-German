@@ -1,6 +1,8 @@
 # [Swiss German Dictionary](https://www.apple.com/chde/)
 ![](https://i.imgur.com/dLI4HYM.jpg)
 
+Circularity: If a cimpiler uses attribute grammars, it must handle circularity 
+
 [App Demo](https://www.swiss-german-online.com/app.html) VERSION WHICH SHOWS SWISS-GERMAN PHRASES EASILY IN SHORT VIDEOS. 
 Feel free to drop a message on [Personal Blog](www.togom11.com), [Linkedin](https://ch.linkedin.com/in/esthiyu?trk=public_profile_locale-url) or [Instagram](https://www.instagram.com/esthicodes/?hl=en). 
 
