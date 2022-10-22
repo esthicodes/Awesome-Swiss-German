@@ -16,7 +16,7 @@ You can find an overview [here](https://cloud.google.com/products)
 
 Design: 
 
-[Figma](https://www.figma.com/)
+[Figma](https://www.figma.com/) figma arbeitet
 
 Collaboration: 
 [FigJam](https://www.figma.com/figjam/)
