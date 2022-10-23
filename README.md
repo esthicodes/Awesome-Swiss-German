@@ -24,6 +24,22 @@ Cloud Run, BigQuery, Virtual Machines with GPUs and Machine Learning APIs, Googl
 
 You can find an overview [here](https://cloud.google.com/products)
 
+# vscode-stories-api
+
+https://github.com/ide-stories/vscode-stories
+
+- [Discord](https://discord.gg/ABpGdRxvaA)
+
+# How to run on your computer
+
+1. Have PostgreSQL running on your computer
+2. Create a database called `stories`
+3. Copy `.env.example` to `.env` and fill in `GITHUB_CLIENT_ID` and `GITHUB_CLIENT_SECRET` (you will have to register a GitHub OAuth account and set the callback url to: http://localhost:8080/auth/github/callback)
+4. Fill in database credentials to `.env` ([typeorm docs options](https://typeorm.io/#/connection-options/postgres--cockroachdb-connection-options))
+5. Don't forget to run `yarn`
+6. `yarn dev` to startup server
+
+
 Design: 
 
 [Figma](https://www.figma.com/) figma arbeitet
@@ -664,8 +680,6 @@ $ sudo bclm unpersist
 - Thanks Kolja for sharing his work [Kolja](https://github.com/kolja-esders), which helped us a lot in studying Household Electric Power Consumption.
 
 - Thanks the organizers of [HackZürich](https://hackzurich.com/), [ReChart](https://github.com/ralpguler/DenseReg), [Alex Erfurt](https://github.com/alexerfurt) for providing [Google Cloud Developer's Cheat Sheet](https://github.com/priyankavergadia/google-cloud-4-words), [vrn](https://github.com/AaronJackson/vrn), [Hexagon](https://github.com/hexagon-geo-surv/hackzurich-2022), [Schindler](https://developer.schindler.com/) for making their excellent works publicly available. 
-
-
 
 
 # Citation: 
