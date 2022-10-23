@@ -1,5 +1,6 @@
 # [Swiss German Dictionary](https://www.apple.com/chde/)
 
+Possible Google [Speech-to-text](https://cloud.google.com/speech-to-text)
 
 ![](https://i.imgur.com/dLI4HYM.jpg)
 
