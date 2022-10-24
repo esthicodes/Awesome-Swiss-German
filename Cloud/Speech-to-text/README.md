@@ -1,4 +1,4 @@
-# Step 1: Choose Awesome-Swiss-German Project.
+# Step 1: Choose [Awesome-Swiss-German Project](https://cloud.google.com/speech-to-text)
 
 # Step 2: Enable the Speech-to-Text API
 
