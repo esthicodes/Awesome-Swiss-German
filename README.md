@@ -1,4 +1,4 @@
-# Hoi, wie gaahts? [Swiss German Dictionary](https://www.apple.com/chde/)
+# Hoi, wie gaahts? Wilkommen zu [Swiss German Dictionary](https://www.apple.com/chde/)
 
 Possible Google [Speech-to-text](https://cloud.google.com/speech-to-text)
 
