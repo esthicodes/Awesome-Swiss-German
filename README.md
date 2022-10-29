@@ -11,6 +11,7 @@ Normally, existing translation tools are:
 1. [Deepl](https://www.deepl.com/translator) 
 2. [Google Translator](https://translate.google.com/)
 3. [Papago](https://papago.naver.com/) 
+4. [Existing SwissGerman Dictionary](https://www.m-translate.com/translator/swiss#)
 
 [App Demo](https://www.swiss-german-online.com/app.html) VERSION WHICH SHOWS SWISS-GERMAN PHRASES EASILY IN SHORT VIDEOS. 
 Feel free to drop a message on [Personal Blog](www.togom11.com), [Linkedin](https://ch.linkedin.com/in/esthiyu?trk=public_profile_locale-url) or [Instagram](https://www.instagram.com/esthicodes/?hl=en). 
