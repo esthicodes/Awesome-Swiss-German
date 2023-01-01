@@ -462,9 +462,6 @@ Let's go
 Gömmer
 Gehen wir
  
-  
-
- 
 
 [NLP](https://cloud.google.com/natural-language/docs/samples/language-entity-sentiment-text?hl=de)
  
