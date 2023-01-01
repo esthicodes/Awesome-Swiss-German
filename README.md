@@ -338,19 +338,19 @@ di - << Frau
 >>> Der -- Die -- Das 
 
 mehr und mehr:
-Wanna go out drinking? 
-Wämmer eis go ziie?
-Wollen wir einen trinken?
+🇬🇧: Wanna go out drinking? 
+🇨🇭: Wämmer eis go ziie?
+🇩🇪: Wollen wir einen trinken?
 
-I'm cold - Ich ha chalt
-Mir ist kalt
+🇬🇧: I'm cold - Ich ha chalt
+🇨🇭: Mir ist kalt
 I have a bit of a headache
 
-Ich han es bitzeli Chopfweh
+🇨🇭:Ich han es bitzeli Chopfweh
 Ich habe ein bisschen Kopfweh
 
 Now the fun is over!
-Jetzt isch färtig luschtig
+🇨🇭:Jetzt isch färtig luschtig
 
 Region of Switzerland
 North: Thurgau
@@ -358,7 +358,8 @@ South:
 West
 East
 
-A little Es bitzeli
+A little 
+🇨🇭: Es bitzeli
 Ein bisschen
 
 Approximately Öppe Etwa
