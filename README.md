@@ -2,7 +2,8 @@
 
 Possible Google [Speech-to-text](https://cloud.google.com/speech-to-text)
 
-![](https://i.imgur.com/dLI4HYM.jpg)
+# ![](https://i.imgur.com/dLI4HYM.jpg)
+<img src="https://i.imgur.com/dLI4HYM.jpg" alt="drawing" width="200"/>
  
 Circularity: If a compiler uses attribute grammars, it must handle circularity.
 
