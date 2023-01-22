@@ -1,6 +1,13 @@
-# Hoi, wie gaahts? Wilkommen zu [Swiss German Dictionary](https://www.apple.com/chde/)
+# Hoi, wie gäähts? Wilkommen zu [Swiss German Dictionary](https://www.apple.com/chde/)
 
 Possible Google [Speech-to-text](https://cloud.google.com/speech-to-text)
+
+
+[Speech-to-text](http://dialektkarten.ch/trans/index.html)
+
+[![Speech-to-text](http://dialektkarten.ch/trans/index.html)](<img width="846" alt="image" src="https://user-images.githubusercontent.com/78131082/213899023-f07daf0d-55a7-4866-9753-2be91c97f885.png">)
+
+<img width="846" alt="image" src="https://user-images.githubusercontent.com/78131082/213899023-f07daf0d-55a7-4866-9753-2be91c97f885.png">
 
 # ![](https://i.imgur.com/dLI4HYM.jpg)
 <img src="https://i.imgur.com/dLI4HYM.jpg" alt="drawing" width="200"/>
@@ -453,6 +460,31 @@ Kommst du?
 Do we have...?
 Hämmer...?
 Haben wir...?
+
+D Bevölkereg esch gege d noi Schtrasse.
+0.33271761714670817
+
+D Bevölkerig esch gege d noi Schtrasse.
+0.20469203806629924
+
+D Bevölkereg isch gege d noi Schtrasse.
+0.20469203806629924
+
+D Bevölkerig isch gege d noi Schtrasse.
+0.1259291011009509
+
+D Bevölkereg esch gege d nöi Schtrasse.
+0.04989357708977294
+
+D Bevölkerig esch gege d nöi Schtrasse.
+0.030695152449413003
+
+D Bevölkereg isch gege d nöi Schtrasse.
+0.030695152449413003
+
+D Bevölkerig isch gege d nöi Schtrasse.
+0.018884041571070945
+
 
 <p align="center"> 
 <img src="Docs/images/ihanfrag.jpeg">
