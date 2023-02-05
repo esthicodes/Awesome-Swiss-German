@@ -1,6 +1,10 @@
-# Hoi, wie gäähts? Wilkommen zu [Swiss German Dictionary](https://www.apple.com/chde/)
+# Hoi, wie gäähts? 
+
+## Wilkommen zu [Swiss German Dictionary](https://www.apple.com/chde/)
 
 Possible Google [Speech-to-text](https://cloud.google.com/speech-to-text)
+
+### [Googletrans](https://www.makeuseof.com/python-translator-build/) is a module that uses the Google Translate API to detect and translate sentences from one language to another, which you can use Python Translator to build as well.
 
 
 [Speech-to-text](http://dialektkarten.ch/trans/index.html)
