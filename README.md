@@ -47,6 +47,117 @@ https://github.com/ide-stories/vscode-stories
 5. Don't forget to run `yarn`
 6. `yarn dev` to startup server
 
+[26 Different Cantonal Swiss German:](https://studyinginswitzerland.com/cantons-of-switzerland/)
+
+1. The Canton of Zurich https://en.wikipedia.org/wiki/File:Wappen_Zürich_matt.svg![image](https://user-images.githubusercontent.com/78131082/216808934-27729b66-06eb-4a2b-a5be-a2fc79d83da2.png)
+      
+
+![istockphoto-1061784708-612x612](https://user-images.githubusercontent.com/78131082/216808346-8d7ef036-0482-4612-a2ac-9ae2d30442e5.jpg)
+
+---
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
+---
+
+
+
+2. The Canton of Berne
+
+![kantone-schweiz-bern-blog](https://user-images.githubusercontent.com/78131082/216809005-e21b667b-b4f1-42d5-a8e4-53d9fccbef35.jpg)
+
+
+
+3. The Canton of Lucerne
+
+![Luzern](https://user-images.githubusercontent.com/78131082/216809012-786ed59e-069d-4649-af90-1af9a0bf8c15.jpg)
+
+
+4. The Canton of Uri
+
+![1200px-Flag_of_Canton_of_Uri svg](https://user-images.githubusercontent.com/78131082/216809035-3fecfd74-19af-42a3-b27e-97c85d81379d.png)
+
+
+5. The Canton of Schwyz
+![st,small,507x507-pad,600x600,f8f8f8](https://user-images.githubusercontent.com/78131082/216809062-b65a119b-1431-459b-9b44-516d354f7625.jpg)
+
+
+
+6. The Canton of Obwalden
+![Wappen_Obwalden_matt svg](https://user-images.githubusercontent.com/78131082/216809074-2319744a-0539-4f45-99d7-2a9aa52ed3f2.png)
+
+7. The Canton of Nidwalden
+![1200px-Wappen_Nidwalden_matt svg](https://user-images.githubusercontent.com/78131082/216809081-75b793a1-8d75-44fb-b0c8-7313f7c6775a.png)
+
+8. The Canton of Glarus![images](https://user-images.githubusercontent.com/78131082/216809087-e357198c-b633-4bfa-b50d-89137aaf15f1.jpeg)
+
+
+9. The Zug Canton
+![images](https://user-images.githubusercontent.com/78131082/216809096-a7d1a819-3c14-432d-adcd-45e2f95e7c8c.png)
+
+
+
+10. The Canton of Fribourg
+
+![Freiburg](https://user-images.githubusercontent.com/78131082/216809104-8b549fec-d526-46e7-9e7b-d9c31216af79.jpg)
+
+
+11. The Canton of Solothurn![images](https://user-images.githubusercontent.com/78131082/216809109-2fab4807-595e-4ca7-b9f7-ebbaeb58a5af.png)
+
+
+12. The Canton of Basel-Stadt![images](https://user-images.githubusercontent.com/78131082/216809116-e64b9f21-d9b9-4b7a-a0f5-4fa2090993a2.png)
+
+
+13. The Canton of Basel-Landschaft![images](https://user-images.githubusercontent.com/78131082/216809121-35adbde4-a200-4cac-beca-cb4cabcdb58b.jpeg)
+
+
+14. The Canton of Schaffhausen![images](https://user-images.githubusercontent.com/78131082/216809132-ffa5884d-9462-4716-91c4-5c3ac32a60f5.jpeg)
+
+15. The Canton of Appenzell-Ausserrhoden
+![unnamed](https://user-images.githubusercontent.com/78131082/216809146-7c705126-a518-4608-986d-323d3a806ee8.jpg)
+
+16. The Canton of Appenzell-Innerrhoden
+
+![unnamed](https://user-images.githubusercontent.com/78131082/216809169-ee1f2a29-d0e9-4048-9216-45622fcdf037.jpg)
+
+17. The Canton of St.Gallen
+![unnamed](https://user-images.githubusercontent.com/78131082/216809183-17a75dc7-bdc1-44f8-9cc7-65966e042f70.jpg)
+
+
+18. The Canton of Graubünden
+![Wappen_Graubünden svg](https://user-images.githubusercontent.com/78131082/216809190-e3985ab9-06b1-4fdf-ba72-1bf0e765fb8f.png)
+
+19. The Canton of Aargau![images](https://user-images.githubusercontent.com/78131082/216809196-285377f5-bf8c-48d0-8ed7-aeafbf666a3f.png)
+
+
+20. The Canton of Thurgau
+![121686_1](https://user-images.githubusercontent.com/78131082/216809204-118b6900-7a4d-49b1-9c02-30b84ef0f822.jpg)
+
+21. The Canton of Ticino
+![st,small,507x507-pad,600x600,f8f8f8](https://user-images.githubusercontent.com/78131082/216809213-3190c031-51ec-4531-a916-87fc3d87d716.jpg)
+
+22. The Canton of Vaud
+![images](https://user-images.githubusercontent.com/78131082/216809219-1c8face1-4324-4e58-ad45-414287206d71.png)
+
+23. The Canton of Valais
+![langfr-200px-Wappen_Wallis_matt svg](https://user-images.githubusercontent.com/78131082/216809231-618fe7d9-9ee2-4acf-b3c9-0e95dfc3a6ae.png)
+
+
+24. The Canton of Neuchatel
+![images](https://user-images.githubusercontent.com/78131082/216809246-8ec63686-fb14-47f0-9fdb-9c299137c022.jpeg)
+
+
+
+25. The Canton of Geneva
+![Wappen_Genf_matt svg](https://user-images.githubusercontent.com/78131082/216809254-5f979d82-5464-4bd2-bb97-7105bda28ae1.png)
+
+26. Canton of Jura
+
+![6122927_001](https://user-images.githubusercontent.com/78131082/216809260-d060ca23-81c9-4a2d-a29d-9779dc9c78c8.jpg)
+
+
+[1]: http://www.github.com/your_contact_info
+[2]: https://www.linkedin.com/in/your_contact_info
+[3]: https://www.facebook.com/your_contact_info
+ 
 
 Design: 
 
