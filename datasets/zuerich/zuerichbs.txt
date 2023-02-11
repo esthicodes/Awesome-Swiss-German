@@ -1,0 +1,10 @@
+Abwart = Haumeister
+Estrich = Dachboden
+Falle = Türklinke
+Kabis = Weißkohl
+wischen = fegen
+fegen = wischen
+räss = würzig
+pendent = unerledigt
+Nachtessen/Znacht = Abendessen
+Morgenessen/Zmorge = Frühstück
