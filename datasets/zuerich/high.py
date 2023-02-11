@@ -52,3 +52,4 @@ Will du mich so süchtig machsch
 So high
 Ich bin so high
 
+# korean: https://github.com/esthicodes/Awesome-Swiss-German/blob/main/datasets/korean/high-kr.py
