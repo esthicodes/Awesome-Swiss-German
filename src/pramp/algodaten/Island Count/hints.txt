@@ -1,7 +1,17 @@
 Island Count
 
 If your peer is stuck, ask them if they know how to traverse a undirected graph.
-At this point, you peer may come up with a recursive solution by using a Breadth-First Search (BFS) or a Depth-First Search (DFS) algorithm. While this works, see if you can nudge them toward an iterative solution. This is not a must, but preferable.
-Make sure that your peer’s code does not access out of bound indices, especially when trying to traverse adjacent cells in binaryMatrix.
-Watch out for duplicate island counting in your peer’s code. It’s important that a visited cell of 1 is marked properly to avoid redundant counting.
+
+At this point, you peer may come up with a recursive solution by using a Breadth-First Search (BFS) or a Depth-First Search (DFS) algorithm. 
+
+While this works, see if you can nudge them toward an iterative solution. This is not a must, but preferable.
+
+
+Make sure that your peer’s code does not access out of bound indices, especially when trying to traverse adjacent cells in binary Matrix.
+
+Watch out for duplicate island counting in your peer’s code. 
+
+It’s important that a visited cell of 1 is marked properly to avoid redundant counting.
+
+
 Any solution that takes more than O(N⋅M) time isn’t optimal.
