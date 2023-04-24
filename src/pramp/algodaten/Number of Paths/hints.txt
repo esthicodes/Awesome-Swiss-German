@@ -1,0 +1,7 @@
+While this question may seem hard to comprehend at first sight, it is easily solved in the “divide and conquer” recursive method.
+Encourage your peer to implement first any solution, even if it is not optimal. Once done, ask them to optimize it.
+If your peer doesn’t have any intuition to the question, guide them towards answering a more general question - given (i,j), calculate all possible ways to travel from (0,0) to (i,j). Also, suggest your peer to draw a grid and try to calculate it manually for a few squares.
+Another good hint is to direct to first think about the obvious base cases, e.g. if the square (i,j) is on the other side of the border or if it is out of the grid (0 ways).
+If your peer still doesn’t have a clue, explain the recursive relation provided in the solution.
+Your peer should get a full score only if the function achieves O(n^2) time complexity, and O(n) space complexity (or better), and doing so without any hints.
+Obviously, we do not expect your peer to be familiar with the combinatorial solution, or discover it by themselves. Moreover, it’s OK if your peer discovers the combinatorial approach for this question, but since this is a coding interview, if your peer is familiar with it beforehand, encourage them to find another recursive solution to the question.
