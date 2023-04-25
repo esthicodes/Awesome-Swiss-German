@@ -1,0 +1,17 @@
+Try to write the number of ways to write S[i:] in terms of the number of ways to write S[i+1:] and S[i+2:]. 
+
+For example, if there are 2 ways to write S[1:] = '262' ('ZB' and 'BFB'), and one way to write S[2:] = '62' ('FB'), 
+
+then we could say there are 3 ways to write S as we either write 'A' then a decoding of S[1:], or write 'L' then a decoding of S[2:].
+
+We can store the answer for S[i:] into an integer array dp.
+
+The recursion is given below. You can help the candidate with the specific part of the recursion they are having difficulty with:
+
+If S[i] == 0, then dp(i) = 0.
+
+If S[i] == 1, then we have dp(i) = dp(i+1) + dp(i+2).
+
+If S[i] == 2, then we have dp(i) = dp(i+1) + (S[i+1] <= 6 ? dp(i+2) : 0).
+
+If S[i] > 2, then we have dp(i) = dp(i+1).
